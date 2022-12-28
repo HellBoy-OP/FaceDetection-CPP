@@ -11,6 +11,7 @@
 - Randomly picks text color and rectangle color in every webcam startup.
 - Warms-up the webcam before the detection to ensure smooth real-time detection.
 - The compiled EXE file can be shared and used in different 64-bit PCs.
+- Press 'q' to exit from the webcam.
 
-
+### I have included the EXE file in the repository just in case.
 ### Feel free to use and modify this code.
